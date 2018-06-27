@@ -165,6 +165,7 @@ var Translations = {
                       "cardId":"6a6309af",
                        "width":20
                     }
+        ]
         }
         
     ]
