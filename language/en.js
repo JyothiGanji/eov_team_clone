@@ -164,6 +164,7 @@ var Translations = {
                    { 
                       "cardId":"End",
                        "width":20
+                    }
         }
         
     ]
