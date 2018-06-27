@@ -112,7 +112,7 @@ var Translations = {
             "states": [
                 {
                     "cardId": "START",
-                    "width":10
+                    "width":15
                 }
             ]
         },
@@ -134,11 +134,51 @@ var Translations = {
             "states": [
                 {
                     "cardId": "42bca2b4",
-                    "width": 10
+                    "width": 15
                 }
                 
             ]
-        }        
+        },
+        {
+            "label": "PRODUCT INFO",
+            "states": [
+                {
+                    "cardId": "42bca2b4",
+                    "width": 15
+                }
+                
+            ]
+        },       
+        {
+            "label": "PRODUCT INFO",
+            "states": [
+                {
+                    "cardId": "42bca2b4",
+                    "width":10
+                }
+                
+            ]
+        },       
+        {
+            "label": "PRODUCT INFO",
+            "states": [
+                {
+                    "cardId": "42bca2b4",
+                    "width": 15
+                }
+                
+            ]
+        },       
+        {
+            "label": "PRODUCT INFO",
+            "states": [
+                {
+                    "cardId": "42bca2b4",
+                    "width":10
+                }
+                
+            ]
+        },       
         
     ]
 }
