@@ -134,19 +134,27 @@ var Translations = {
             "states": [
                 {
                     "cardId": "42bca2b4",
-                    "width": 6.7
-                },
+                    "width": 20
+                }
                 
             ]
         },
         {
             "label":"ACTIVE & SHARING",
                 "states": [
+                    {
+                    "cardId":"e4d79a9d",
+                    "width":20
+                    }
                     ]
         },
         {
             "label":"PRICING",
                "states":[
+                   {
+                       "cardId":"6a6309af",
+                       "width":20
+                   }
                   ]
         },
         {
