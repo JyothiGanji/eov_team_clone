@@ -162,7 +162,7 @@
 
 .cta__button {
     color: #fff;
-    background-color: #271818a8;
+    background-color:#0094BE;
     border-radius: 0;
     border: 0;
     font-family: Arial;
@@ -348,12 +348,12 @@ border-bottom-right-radius: 6%;
 } **/
 
 .timeline__controls {
-    background-color:#CEE5F1;
+    background-color:#0094BE;
     border-color: #E7E7E7;
 }
 
 .timeline__button {
-    background-color:#CEE5F1;
+    background-color:#0094BE;
     cursor: pointer;
 }
 
