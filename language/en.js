@@ -141,11 +141,23 @@ var Translations = {
         },
         {
             "label": "Active&sharing",
-            
+             "states": [
+                {
+                    "cardId": "42bca2b4",
+                    "width": 15
+                }
+                
+            ]
         },       
         {
             "label": "pricing",
-           
+            "states": [
+                {
+                    "cardId": "42bca2b4",
+                    "width": 15
+                }
+                
+            ]
         },       
         {
             "label": "Questions",
