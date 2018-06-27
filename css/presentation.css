@@ -338,8 +338,8 @@ border-bottom-right-radius: 6%;
 }
 
 .timeline {
-    color:#E7E7E7;
-    background-color: #E7E7E7;
+    color:#7E5F45;
+    background-color:#7E5F45;
     font-size: 20px;
 }
 
@@ -348,7 +348,7 @@ border-bottom-right-radius: 6%;
 } **/
 
 .timeline__controls {
-    background-color:#E7E7E7;
+    background-color:#7E5F45;
     border-color: #E7E7E7;
 }
 
