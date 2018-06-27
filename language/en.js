@@ -138,43 +138,7 @@ var Translations = {
                 }
                 
             ]
-        },
-        {
-            "label":"ACTIVE & SHARING",
-                "states": [
-                    {
-                    "cardId":"e4d79a9d",
-                    "width":20
-                    }
-                    ]
-        },
-        {
-            "label":"PRICING",
-               "states":[
-                   {
-                       "cardId":"6a6309af",
-                       "width":20
-                   }
-                  ]
-        },
-        {
-            "label":"QUESTIONS",
-               "states":[
-                   {
-                       "cardId":"6dd8eb8e",
-                       "width":20
-                   }
-                  ]
-        }
-        {
-             "label":"Thanks",
-              "states":[
-                   { 
-                      "cardId":"6a6309af",
-                       "width":20
-                    }
-        ]
-        }
+        }        
         
     ]
 }
