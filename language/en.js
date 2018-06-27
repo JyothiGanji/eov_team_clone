@@ -140,40 +140,28 @@ var Translations = {
             ]
         },
         {
-            "label": "PRODUCT INFO",
+            "label": "Active&sharing",
+            
+        },       
+        {
+            "label": "pricing",
+           
+        },       
+        {
+            "label": "Questions",
             "states": [
                 {
-                    "cardId": "42bca2b4",
+                    "cardId": "a0050071",
                     "width": 15
                 }
                 
             ]
         },       
         {
-            "label": "PRODUCT INFO",
+            "label": "Thanks",
             "states": [
                 {
-                    "cardId": "42bca2b4",
-                    "width":10
-                }
-                
-            ]
-        },       
-        {
-            "label": "PRODUCT INFO",
-            "states": [
-                {
-                    "cardId": "42bca2b4",
-                    "width": 15
-                }
-                
-            ]
-        },       
-        {
-            "label": "PRODUCT INFO",
-            "states": [
-                {
-                    "cardId": "42bca2b4",
+                    "cardId": "End",
                     "width":10
                 }
                 
