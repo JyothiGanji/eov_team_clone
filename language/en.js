@@ -162,7 +162,7 @@ var Translations = {
              "label":"Thanks",
               "states":[
                    { 
-                      "cardId":"End",
+                      "cardId":"6a6309af",
                        "width":20
                     }
         }
