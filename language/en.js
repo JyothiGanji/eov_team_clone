@@ -136,20 +136,35 @@ var Translations = {
                     "cardId": "42bca2b4",
                     "width": 6.7
                 },
-                {
-                    "cardId": "97945e2b",
-                    "width":6.7
-                },
-                {
-                    "cardId": "4720eb39",
-                    "width": 6.7
-                },
                 
             ]
         },
         {
             "label":"ACTIVE & SHARING",
-                    
+                "states": [
+                    ]
+        },
+        {
+            "label":"PRICING",
+               "states":[
+                  ]
+        },
+        {
+            "label":"QUESTIONS",
+               "states":[
+                   {
+                       "cardId":"6dd8eb8e",
+                       "width":20
+                   }
+                  ]
         }
+        {
+             "label":"Thanks",
+              "states":[
+                   { 
+                      "cardId":"End",
+                       "width":20
+        }
+        
     ]
 }
