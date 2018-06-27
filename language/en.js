@@ -47,27 +47,27 @@ var Translations = {
      */
     "CtaButtonSettings": {
         "button1": {
-            "card": "d1b4d742",
-            "label": "Contact",
+            "card": "02a8f979",
+            "label": "Contact Me",
             "icon": "contact"
         },
         "button2": {
-            "card": "d1b4d742",
-            "label": "Website",
-            "icon": "website"
-        },
-        "button3": {
-            "card": "d1b4d742",
+            "card": "039cbd59",
             "label": "Email",
             "icon": "email"
         },
-        "button4": {
-            "card": "d1b4d742",
+        "button3": {
+            "card": "e19d4095",
             "label": "Save",
             "icon": "save"
         },
+        "button4": {
+             "url": "http://google.com/",
+            "label": "Webiste",
+            "icon": "website"
+        },
         "button5": {
-            "url": "http://example.com/",
+            "card": "b387a1e7",
             "label": "Share",
             "icon": "share"
         }
@@ -94,13 +94,7 @@ var Translations = {
             "desktopImage": "./images/promo_portrait.png",
             "mobileImage": "./images/promo_landscape.png"
         },
-        "promo2": {
-            "trackingName": "promo2",
-            "url": "http://example.com/",
-            "label": "Promo (Bottom)",
-            "desktopImage": "./images/promo_portrait.png",
-            "mobileImage": "./images/promo_landscape.png"
-        }
+       
     },
 
     /**
@@ -114,7 +108,7 @@ var Translations = {
      */
     "ChapterSettings": [
         {
-            "label": "Introduction",
+            "label": "INTRODUCTION",
             "states": [
                 {
                     "cardId": "START",
@@ -123,26 +117,38 @@ var Translations = {
             ]
         },
         {
-            "label": "Your Account",
+            "label": "WHAT'S IT IN FOR YOU",
             "states": [
                 {
-                    "cardId": "77a834f0",
-                    "width": 20
+                    "cardId": "6f3f4533",
+                    "width": 15
                 },
                 {
-                    "cardId": "c23a68c9",
-                    "width": 20
+                    "cardId": "acae2868",
+                    "width": 15
                 }
             ]
         },
         {
-            "label": "Thank You",
+            "label": "PRODUCT INFO",
             "states": [
                 {
-                    "cardId": "7b0123a5",
-                    "width": 40
-                }
+                    "cardId": "42bca2b4",
+                    "width": 20
+                },
+                {
+                    "cardId": "97945e2b",
+                    "width": 20
+                },
+                {
+                    "cardId": "4720eb39",
+                    "width": 20
+                },
+                
             ]
+        },
+        {
+            "label":"ACTIVE & SHARING",
         }
     ]
 }
