@@ -121,11 +121,11 @@ var Translations = {
             "states": [
                 {
                     "cardId": "6f3f4533",
-                    "width": 15
+                    "width": 10
                 },
                 {
                     "cardId": "acae2868",
-                    "width": 15
+                    "width": 10
                 }
             ]
         },
@@ -134,21 +134,22 @@ var Translations = {
             "states": [
                 {
                     "cardId": "42bca2b4",
-                    "width": 20
+                    "width": 6.7
                 },
                 {
                     "cardId": "97945e2b",
-                    "width": 20
+                    "width":6.7
                 },
                 {
                     "cardId": "4720eb39",
-                    "width": 20
+                    "width": 6.7
                 },
                 
             ]
         },
         {
             "label":"ACTIVE & SHARING",
+                    
         }
     ]
 }
