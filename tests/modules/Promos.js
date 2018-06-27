@@ -19,13 +19,7 @@
                     "desktopImage": "./images/promo_portrait.png",
                     "mobileImage": "./images/promo_landscape.png"
                 },
-                "promo2": {
-                    "trackingName": "promo2",
-                    "url": "http://example.com/",
-                    "label": "Promo (Bottom)",
-                    "desktopImage": "./images/promo_portrait2.png",
-                    "mobileImage": "./images/promo_landscape2.png"
-                }
+                
             });
 
             var desktopPromoItems = $("#jsPromoContainerDesktop .promo__item"),
