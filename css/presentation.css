@@ -584,7 +584,7 @@ border-bottom-right-radius: 6%;
 .timeline-volume__ball:hover,
 .timeline-volume__ball:active,
 .focusable.timeline-volume__ball:focus {
-    background-color: #fff;
+    background-color: #E7E7E7;
 }
 
 .timeline__settings-popout,
