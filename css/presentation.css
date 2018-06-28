@@ -41,7 +41,8 @@
 
 .top-wrapper {
     background-color: #bababa;
-    background-image: url(https://thumbs.dreamstime.com/b/decorative-red-bow-red-ribbon-black-background-d-realistic-vector-illustration-decorative-red-bow-red-ribbon-black-112149536.jpg);
+    background-image: url("../images/background_tile.png");
+    /**background-image: url(https://thumbs.dreamstime.com/b/decorative-red-bow-red-ribbon-black-background-d-realistic-vector-illustration-decorative-red-bow-red-ribbon-black-112149536.jpg);**/
     /**background: linear-gradient(to bottom right, #04c2f2, #8fea6b);**/
 }
 
