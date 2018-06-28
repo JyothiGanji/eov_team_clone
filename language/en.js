@@ -143,7 +143,7 @@ var Translations = {
             "label": "Active&sharing",
              "states": [
                 {
-                    "cardId": "42bca2b4",
+                    "cardId": "6dd8eb8e",
                     "width": 15
                 }
                 
@@ -153,7 +153,7 @@ var Translations = {
             "label": "pricing",
             "states": [
                 {
-                    "cardId": "42bca2b4",
+                    "cardId": "e4d79a9d",
                     "width": 15
                 }
                 
